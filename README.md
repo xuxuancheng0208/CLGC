@@ -14,5 +14,3 @@ reconstruction results. Extensive experiments demonstrate that CLGC excels at at
 
 ## Code
 The code will be comming soon.
-
-
