@@ -5,7 +5,7 @@ Text-to-Video (T2V) editing aims to produce temporally consistent videos aligned
 reconstruction results. Extensive experiments demonstrate that CLGC excels at attribute editing and shape transformation, confirming its effectiveness in T2V editing.
 
 ## Framework
-
+![overall_structure](./assets/pipeline.png)
 
 ## Code
 The code will be comming soon.
