@@ -1,4 +1,4 @@
-# (ICME2025)CLGC：Continuous Layout Guidance for Consistent Text-to-Video Editing
+# [ICME2025]CLGC：Continuous Layout Guidance for Consistent Text-to-Video Editing
 This repository will contain the implementation of the following paper:
 > **CLGC：Continuous Layout Guidance for Consistent Text-to-Video Editing**<br>
 ## Overview
