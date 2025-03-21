@@ -7,6 +7,10 @@ reconstruction results. Extensive experiments demonstrate that CLGC excels at at
 ## Framework
 ![overall_structure](./assets/pipeline.png)
 
+## Comparison
+![overall_structure](./assets/compare1.png)
+![overall_structure](./assets/compare2.png)
+
 ## Code
 The code will be comming soon.
 
